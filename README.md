@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Natural Language Models(Lang chain)**
 
+- 👨‍💻 Incredible Typing Speed **90+ WPM**
+
 - 💬 Ask me about **React/Next, Nuxt**
 
 - 📫 How to reach me **hamza263973@gmail.com**
