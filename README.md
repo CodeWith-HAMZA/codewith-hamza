@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Natural Language Models(Lang chain)**
 
-- 💬 Ask me about **React/Next, Nuxt**
+- 💬 Ask me about **Web And Mobile Development**
 
 - 📫 How to reach me **hamza263973@gmail.com**
 
