@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hamza Jawaid</h1>
 <h3 align="center">A passionate Software Engineer  </h3>
 
-- 🔭 I’m currently working on **Ommo (A Product: Truck Tracking)**
+- 🔭 I’m currently working on **Ommo (A Product: Truck & Driver Tracking For Reliable Transportation)**
+  
+- 👨‍💻 Incredible Typing Speed **90+ WPM**
 
 - 🌱 I’m currently learning **Natural Language Models(Lang chain)**
-
-- 👨‍💻 Incredible Typing Speed **90+ WPM**
 
 - 💬 Ask me about **React/Next, Nuxt**
 
