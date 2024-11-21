@@ -5,7 +5,7 @@
   
 - 👨‍💻 Incredible Typing Speed **90+ WPM**
 
-- 🌱 I’m currently learning **Natural Language Models(Lang chain)**
+- 🌱 I’m currently learning and exploring about **Large Language Models (LLMS)**
 
 - 💬 Ask me about **React/Next, Nuxt**
 
