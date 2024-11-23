@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamza Jawaid</h1>
-<h3 align="center">A passionate Full Engineer  💻 | 🌐 MERN & T3 Specialist | 📱 React Native Mobile App Developer | 🧠 Problem Solver 💡 </h3>
+<h3 align="center">A passionate Full Stack Engineer  💻 | 🌐 MERN & T3 Specialist | 📱 React Native Mobile App Developer | 🧠 Problem Solver 💡 </h3>
 
 - 🔭 I’m currently working on **Ommo (A Product: Truck & Driver Tracking For Reliable Transportation)**
   
