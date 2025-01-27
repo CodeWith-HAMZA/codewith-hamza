@@ -7,8 +7,7 @@
 
 - 🌱 I’m currently learning and exploring about **Large Language Models (LLMS)**
 
-- 💻 <h2>Visit My </h2> <a href="https://three-portfolio-2025.vercel.app/" target="blank">*Portfolio 🌐*</a>
-
+- 💻 *Visit* 👉 <a href="https://three-portfolio-2025.vercel.app/" target="blank">*Portfolio 🌐*</a>
 
 - 💬 Ask me about **React/Next, Nuxt**
 
