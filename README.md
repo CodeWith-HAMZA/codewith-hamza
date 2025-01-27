@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning and exploring about **Large Language Models (LLMS)**
 
-- 💻 *Visit* 👉 <a href="https://three-portfolio-2025.vercel.app/" target="blank">*Portfolio 🌐*</a>
+- 💻 *Visit* 👉 <a href="https://three-portfolio-2025.vercel.app/" target="__blank">***Portfolio 🌐***</a>
 
 - 💬 Ask me about **React/Next, Nuxt**
 
@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
  
 <p align="left">
-<a href="https://www.linkedin.com/in/hamza-shaikh-a5616b31b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hamza-shaikh-a5616b31b/" target="__blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
