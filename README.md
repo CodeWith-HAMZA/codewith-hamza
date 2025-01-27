@@ -7,16 +7,15 @@
 
 - 🌱 I’m currently learning and exploring about **Large Language Models (LLMS)**
 
+- 💻 **Visit My** <a href="https://three-portfolio-2025.vercel.app/" target="blank">*Portfolio*</a>
+
+
 - 💬 Ask me about **React/Next, Nuxt**
 
 - 📫 How to reach me **hamza263973@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  
-<a href="https://three-portfolio-2025.vercel.app/" target="blank">Check Out My Portfolio</a>
-</p>
-
+ 
 <p align="left">
 <a href="https://www.linkedin.com/in/hamza-shaikh-a5616b31b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
 </p>
