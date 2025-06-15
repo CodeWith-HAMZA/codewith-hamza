@@ -1,4 +1,4 @@
-<h1 align="center">Hamza Jawaid</h1>
+<h1 align="center">Hamza Jawaid Shaikh</h1>
 <h3 align="center">A passionate Full Stack Engineer  💻 | 🌐 MERN & T3 Specialist | 📱 React Native Mobile App Developer | 🧠 Problem Solver 💡 </h3>
 
 <p>
