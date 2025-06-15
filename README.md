@@ -1,8 +1,8 @@
 <h1 align="center">Hamza Jawaid Shaikh</h1>
-<h3 align="center">A passionate Full Stack Engineer  💻 | 🌐 MERN & T3 Specialist | 📱 React Native Mobile App Developer | 🧠 Problem Solver 💡 </h3>
+<h3 align="center">Passionate Full Stack Engineer  💻 | 🌐 MERN & T3 Specialist | 📱 React Native Mobile App Developer | 🧠 Problem Solver 💡 </h3>
 
 <p>
-  Hello! I'm Hamza, and I'm based in Karachi, Pakistan. I studied at University Of Sindh (Jamshoro), where I'm doing my bachelor's in Software Engineering.
+  Hello! I'm Hamza, and I'm based in Karachi, Pakistan. I studied at University Of Sindh (Jamshoro), where I'm doing my bachelor's in Computer Science.
 
 I have rich experience in the <b> MERN & T3 stack, React Native Mobile Development </b>. My current focus these days is on expanding my portfolio by building more projects that I can add on here, as well as being a great team player at my current role.
 </p>
