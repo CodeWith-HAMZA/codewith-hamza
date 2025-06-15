@@ -19,7 +19,7 @@
 <a href="https://www.linkedin.com/in/hamza-shaikh-a5616b31b/" target="__blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
 </p>
 
-
+<!--
  ## Languages & Tools
  <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
@@ -40,3 +40,4 @@
   </a> 
    
 </p>
+-->
