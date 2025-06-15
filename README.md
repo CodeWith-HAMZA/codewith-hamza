@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Hamza Jawaid</h1>
 <h3 align="center">A passionate Full Stack Engineer  💻 | 🌐 MERN & T3 Specialist | 📱 React Native Mobile App Developer | 🧠 Problem Solver 💡 </h3>
 
+<p>
+  Hello! I'm Hamza, and I'm based in Karachi, Pakistan. I studied at University Of Sindh (Jamshoro), where I'm doing my bachelor's in Software Engineering.
+
+I have rich experience in the MERN & T3 stack, React Native Mobile Development. My current focus these days is on expanding my portfolio by building more projects that I can add on here, as well as being a great team player at my current role.
+</p>
+
 - 🔭 I’m currently working on **Ommo (A Product: Truck & Driver Tracking For Reliable Transportation)**
   
 - 👨‍💻 Incredible Typing Speed **90+ WPM**
