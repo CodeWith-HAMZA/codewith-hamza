@@ -18,9 +18,6 @@ I have rich experience in the <b> MERN & T3 stack, React Native Mobile Developme
 - 💬 Ask me about **React/Next, Nuxt**
 
 - 📫 How to reach me **hamzajawaidshaikh@gmail.com**
-
-<h3 align="left">Connect me:</h3>
-
  
 
 <!--
