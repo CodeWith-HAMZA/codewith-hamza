@@ -4,7 +4,7 @@
 <p>
   Hello! I'm Hamza, and I'm based in Karachi, Pakistan. I studied at University Of Sindh (Jamshoro), where I'm doing my bachelor's in Computer Science.
 
-I have primarily rich experience in the <b> Laravel + MERN, & secondary React Native Mobile Development </b>. My current focus these days is on expanding my portfolio by building more projects that I can add on here, as well as being a great team player at my current role.
+I have rich experience in the <b> MERN/MEAN + Laravel, & secondary React Native Mobile Development </b>. My current focus these days is on expanding my portfolio by building more projects that I can add on here, as well as being a great team player at my current role.
 </p>
 
 - 🔭 I’m currently working on **Ommo (A Product: Truck & Driver Tracking For Reliable Transportation)**
