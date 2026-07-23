@@ -18,7 +18,7 @@ I have rich experience in the <b> MERN/MEAN/MEVN + Laravel, & secondary React Na
 - 💬 Ask me about **React/Next, Nuxt**
 
 - 📫 How to reach me **hamzajawaidshaikh@gmail.com**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codewith-hamza&layout=compact&theme=tokyonight)
 
 
 <!--
