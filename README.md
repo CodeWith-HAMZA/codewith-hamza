@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamza Jawaid Shaikh</h1>
 
 <h3 align="center">
-Frontend-Heavy Full Stack Engineer
+Frontend-Heavy Full Stack Engineer (4+ years)
 </h3>
 
 <p align="center">
