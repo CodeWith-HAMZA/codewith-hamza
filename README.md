@@ -47,12 +47,24 @@ I have rich experience in the <b> MERN/MEAN/MEVN + Laravel, & secondary React Na
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codewith-hamza&show_icons=true&theme=tokyonight)
+***<h3><img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="50px"> &nbsp; Github Stats and Activity</h3>***
+<hr></hr>
 
-## 💻 Most Used Languages
+<div align="center" >
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codewith-hamza&layout=compact&theme=tokyonight)
+### ***<img src="https://media.giphy.com/media/KeUoFXwyzOksZrJ6D6/giphy.gif" width="30px"> &nbsp; Streak Stats***
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=therafiali)](https://git.io/streak-stats)
+
+### ***<img src="https://media.giphy.com/media/Th4eDUkNM3BYRXnzQi/giphy.gif" width="40px"> &nbsp; GitHub Profile Stats***
+
+  <a href="https://github.com/therafiali/github-readme-stats"><img alt="codeashing's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=therafiali&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=4E96FFFF&icon_color=" height="192px"/></a>
+  <a href="https://github.com/therafiali/github-readme-stats"><img alt="codeashing's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=therafiali&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=4E96FFFF&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=therafiali&bg_color=20222e&color=4e96ff&line=4783de&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=codewith-hamza&theme=tokyonight)
