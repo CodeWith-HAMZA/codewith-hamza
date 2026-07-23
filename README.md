@@ -337,18 +337,15 @@ Currently working on a transportation technology product focused on reliable tru
 
 ---
 
-# 📊 GitHub Statistics
+# 💻 Most Used Programming Languages
 
+---
 <p align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=codewith-hamza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewith-hamza&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&count_private=true"
+    alt="Most Used Languages"
+  />
 </p>
-
-<p align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewith-hamza&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
-</p>
-
 ---
 
 # 🔥 Contribution Streak
