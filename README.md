@@ -47,12 +47,6 @@ I have rich experience in the <b> MERN/MEAN/MEVN + Laravel, & secondary React Na
 
 
 
-
-
-# Hi 👋, I'm Hamza
-
-## 📊 GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codewith-hamza&show_icons=true&theme=tokyonight)
 
 ## 💻 Most Used Languages
