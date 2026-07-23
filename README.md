@@ -55,7 +55,7 @@ Currently exploring **LLMs, AI integrations and AI-native application architectu
 
 # ⚡ Primary Engineering Stack
 
-## 🟢 MERN Stack
+## MERN Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs"/>
@@ -77,7 +77,7 @@ Currently exploring **LLMs, AI integrations and AI-native application architectu
 
 ---
 
-## 🔴 MEAN Stack
+## MEAN Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,express,angular,nodejs"/>
@@ -115,7 +115,7 @@ Currently exploring **LLMs, AI integrations and AI-native application architectu
 
 # ⚙️ Backend Engineering
 
-## 🟢 Primary (Node.js)
+## Primary (Node.js)
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis"/>
@@ -127,7 +127,7 @@ Currently exploring **LLMs, AI integrations and AI-native application architectu
 
 ---
 
-## 🟠 Secondary (Laravel)
+## Secondary (Laravel)
 
 <p>
   <img src="https://skillicons.dev/icons?i=php,laravel,mysql"/>
@@ -138,7 +138,7 @@ Currently exploring **LLMs, AI integrations and AI-native application architectu
 
 ---
 
-## 🟣 Secondary — .NET
+## Secondary (.NET, WebAPI)
 
 <p>
   <img src="https://skillicons.dev/icons?i=dotnet,cs"/>
@@ -149,7 +149,7 @@ Currently exploring **LLMs, AI integrations and AI-native application architectu
 
 ---
 
-## 🐍 Python
+## Python
 
 <p>
   <img src="https://skillicons.dev/icons?i=python"/>
@@ -159,7 +159,7 @@ Currently exploring **LLMs, AI integrations and AI-native application architectu
 
 ---
 
-# 🗄️ Databases & Data
+# Databases & Data
 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,supabase"/>
@@ -241,7 +241,7 @@ Production medical learning platform with:
 
 - **4,000+ medical questions**
 - **135+ active physicians**
-- AI-assisted functionality
+- AI-assisted functionality to help students practice the prescription skills.
 - Authentication & application workflows
 
 **Stack**
