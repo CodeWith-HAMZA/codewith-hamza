@@ -1,202 +1,389 @@
 <h1 align="center">Hi 👋, I'm Hamza Jawaid Shaikh</h1>
 
 <h3 align="center">
-Frontend-Heavy Full Stack Engineer | React • Next.js • Angular • Node.js
+Frontend-Heavy Full Stack Engineer
 </h3>
 
 <p align="center">
-  Building scalable web applications, real-time platforms, marketplaces and AI-powered products.
+  <b>MERN & MEAN Specialist</b> • React / Next.js • Angular • Node.js
+  <br/>
+  Secondary Backend: Laravel • .NET Core • Python
+</p>
+
+<p align="center">
+Building production-grade SaaS, marketplaces, real-time systems and AI-powered applications.
 </p>
 
 <p align="center">
   <a href="https://three-portfolio-2025.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="mailto:hamzajawaidshaikh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/codewith-hamza">
-    <img src="https://img.shields.io/badge/GitHub-codewith--hamza-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-codewith--hamza-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I'm a **Frontend-Heavy Full Stack Engineer** based in Karachi, Pakistan, with hands-on experience building production applications across the **MERN / MEAN ecosystem**, Laravel, and React Native.
+I'm a **Frontend-Heavy Full Stack Engineer** from Karachi, Pakistan, specializing primarily in the **MERN and MEAN ecosystems**.
 
-I enjoy turning complex business requirements into clean, scalable and user-focused products — from marketplaces and real-time communication systems to AI-powered platforms.
+My strongest area is building modern frontend applications with **React, Next.js and Angular**, backed by scalable APIs and services using **Node.js, Express.js, MongoDB and PostgreSQL**.
 
-- 🔭 Currently working on **Ommo** — Truck & Driver Tracking for Reliable Transportation
-- 🤖 Exploring **Large Language Models (LLMs)** and AI-powered application development
-- ⚡ Strong focus on **React, Next.js, Angular and modern frontend architecture**
-- 🔌 Experienced with **REST APIs, authentication, payments and third-party integrations**
-- 💬 Ask me about **React, Next.js, Angular, Node.js & Full Stack Development**
-- ⌨️ Typing speed: **90+ WPM**
-- 📍 Karachi, Pakistan
+Beyond the JavaScript/TypeScript ecosystem, I have secondary backend experience with **PHP Laravel, .NET Core and Python**, allowing me to work effectively across different production architectures.
+
+I've worked on products involving:
+
+- 🛒 Marketplaces & SaaS platforms
+- 💬 Real-time chat & communication
+- 📹 WebRTC video calling
+- 🤖 OpenAI & AI-powered functionality
+- 💳 Payment integrations
+- 🔐 Authentication & authorization
+- 🔌 REST APIs & third-party integrations
+- 📊 Admin dashboards & data-heavy interfaces
+- ⚡ Redis & real-time infrastructure
+- 📱 React Native mobile development
+
+Currently exploring **LLMs, AI integrations and AI-native application architecture**.
 
 ---
 
-# 🚀 Featured Products
+# ⚡ Primary Engineering Stack
 
-### 🩺 BoardsReviews
+## 🟢 MERN Stack
 
-**AI-powered medical exam preparation platform**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs"/>
+</p>
 
-A production medical learning platform serving **135+ active physicians** with a question bank of **4,000+ medical questions** and AI-assisted functionality.
+**MongoDB • Express.js • React.js • Node.js**
 
-**Tech:** `Angular` `Firebase` `OpenAI`
+`REST APIs` `JWT` `Authentication` `Authorization` `Mongoose` `CRUD` `Aggregation` `Middleware` `API Integration` `WebSockets` `Real-Time Apps`
+
+### React Ecosystem
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,js,tailwind"/>
+</p>
+
+`React.js` `Next.js` `TypeScript` `JavaScript` `Redux` `Context API`  
+`React Hooks` `SSR` `SSG` `CSR` `Routing` `State Management`  
+`Reusable Components` `Responsive UI` `API Integration` `Performance Optimization`
+
+---
+
+## 🔴 MEAN Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,express,angular,nodejs"/>
+</p>
+
+**MongoDB • Express.js • Angular • Node.js**
+
+`Angular` `TypeScript` `RxJS` `Angular Router` `Reactive Forms`  
+`Services` `Dependency Injection` `HTTP Client` `Guards` `Interceptors`  
+`REST APIs` `JWT Authentication` `MongoDB` `Express.js`
+
+---
+
+# 🎨 Frontend Engineering
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,js,ts,html,css,tailwind,bootstrap"/>
+</p>
+
+### Core
+
+`React.js` `Next.js` `Angular` `Vue.js` `JavaScript` `TypeScript`
+
+### UI & Styling
+
+`HTML5` `CSS3` `Tailwind CSS` `Bootstrap` `Responsive Design`
+
+### Frontend Architecture
+
+`Component Architecture` `State Management` `SPA` `SSR` `SSG`  
+`Reusable Components` `API Consumption` `Authentication Flows`  
+`Performance Optimization` `Responsive Interfaces`
+
+---
+
+# ⚙️ Backend Engineering
+
+## 🟢 Primary — Node.js
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis"/>
+</p>
+
+`Node.js` `Express.js` `REST API Development` `Middleware`  
+`JWT` `RBAC` `Authentication` `Authorization` `WebSockets`  
+`MongoDB` `PostgreSQL` `Redis` `Third-Party APIs`
+
+---
+
+## 🟠 Secondary — Laravel
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql"/>
+</p>
+
+`PHP` `Laravel` `MVC` `Eloquent ORM` `REST APIs`  
+`Authentication` `MySQL` `Routing` `Middleware`
+
+---
+
+## 🟣 Secondary — .NET
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs"/>
+</p>
+
+`.NET Core` `C#` `Web APIs` `REST APIs`  
+`Backend Services` `Authentication` `API Integration`
+
+---
+
+## 🐍 Python
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python"/>
+</p>
+
+`Python` `API Integration` `Automation` `AI Integration` `Backend Services`
+
+---
+
+# 🗄️ Databases & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,supabase"/>
+</p>
+
+### NoSQL
+`MongoDB` `Firebase`
+
+### SQL
+`PostgreSQL` `MySQL`
+
+### Data & Infrastructure
+`Redis` `Supabase` `Firebase`
+
+### Experience
+
+`Schema Design` `Relationships` `Indexes` `Queries`  
+`Aggregation` `Data Modeling` `Caching` `Real-Time Data`
+
+---
+
+# 🔌 APIs, Real-Time & Integrations
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,redis,postman"/>
+</p>
+
+`REST APIs` • `WebSockets` • `WebRTC` • `Real-Time Chat`
+
+`JWT Authentication` • `RBAC` • `Third-Party APIs`
+
+`Stripe` • `OpenAI API` • `Firebase`
+
+`Lead Capture` • `Payment Integration` • `External Services`
+
+---
+
+# 🤖 AI Engineering & LLM Exploration
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,nodejs,ts"/>
+</p>
+
+Currently expanding my engineering skill set into **AI-powered application development**.
+
+`Large Language Models (LLMs)`  
+`OpenAI API`  
+`AI Feature Integration`  
+`Prompt Engineering`  
+`AI-powered SaaS`  
+`Intelligent Search`  
+`AI Workflows`  
+`RAG Exploration`
+
+My focus is not only learning AI concepts, but integrating AI into **real production applications built with MERN/MEAN technologies**.
+
+---
+
+# 📱 Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react"/>
+</p>
+
+### React Native
+
+`Cross-Platform Apps` `REST API Integration` `Authentication`  
+`Reusable Components` `React Hooks` `State Management`
+
+---
+
+# 🚀 Featured Production Work
+
+## 🩺 BoardsReviews
+
+**AI-powered Medical Exam Preparation Platform**
+
+Production medical learning platform with:
+
+- **4,000+ medical questions**
+- **135+ active physicians**
+- AI-assisted functionality
+- Authentication & application workflows
+
+**Stack**
+
+`Angular` `Firebase` `OpenAI`
 
 🌐 https://boardsreviews.com
 
 ---
 
-### 🤝 Zyacom
+## 🤝 Zyacom
 
 **Expert Marketplace & Real-Time Communication Platform**
 
-Marketplace connecting users with experts through real-time communication, integrated payments and modern web technologies.
+A marketplace connecting users with experts through real-time communication and payment infrastructure.
 
-**Key Features**
-- WebRTC video calling
-- Real-time chat
-- Stripe payments
-- Expert marketplace architecture
+### Engineering
 
-**Tech:** `.NET Core` `Node.js` `Angular` `WebRTC` `Stripe`
+`WebRTC Video Calls`  
+`Real-Time Chat`  
+`Stripe Payments`  
+`Marketplace Architecture`  
+`REST APIs`
+
+### Stack
+
+`.NET Core` `Node.js` `Angular` `WebRTC` `Stripe`
 
 🌐 https://zyacom.com
 
 ---
 
-### 🎉 CothCiti
+## 🎉 CothCiti
 
 **Social Event Marketplace**
 
-A social marketplace designed around events and real-time user interaction, including scalable group communication.
+Social marketplace centered around events and real-time user interaction.
 
-**Key Features**
-- Event marketplace
-- Real-time group chat
-- Redis-powered real-time infrastructure
-- Modern server-rendered frontend
+### Engineering
 
-**Tech:** `Next.js` `Node.js` `Redis`
+`Real-Time Group Chat`  
+`Redis`  
+`Marketplace Architecture`  
+`Server-Side Rendering`
+
+### Stack
+
+`Next.js` `Node.js` `Redis`
 
 🌐 https://cothciti.com
 
 ---
 
-### 🚘 AutoBrokerAI
+## 🚘 AutoBrokerAI
 
 **AI-Powered Automotive Marketplace**
 
-Automotive marketplace integrating AI capabilities with lead-generation workflows and external services.
+Automotive marketplace combining AI capabilities with lead-generation workflows.
 
-**Key Features**
-- AI-powered functionality
-- Lead capture
-- Third-party integrations
-- Marketplace architecture
+### Engineering
 
-**Tech:** `React` `Node.js` `Python`
+`AI Features`  
+`Lead Capture`  
+`Third-Party Integrations`  
+`Marketplace Architecture`
+
+### Stack
+
+`React` `Node.js` `Python`
 
 🌐 https://autobrokerai.com
 
 ---
 
-### 🚚 Ommo
+## 🚚 Ommo
 
 **Truck & Driver Tracking Platform**
 
-Transportation product focused on improving reliability through truck and driver tracking.
+Currently working on a transportation technology product focused on reliable truck and driver tracking.
 
-**Focus:** `Tracking` `Transportation` `Full Stack Development`
+`Full Stack Development` `Tracking` `Transportation Technology`
 
 ---
 
-# 🛠️ Technology Stack
-
-### Frontend
+# 🧰 Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,js,ts,html,css,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,npm,vite,vercel"/>
 </p>
 
-### Backend
+`Git` `GitHub` `Docker` `VS Code` `Postman`  
+`npm` `Vite` `Vercel` `GitHub Actions`
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,laravel,php,python" />
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=codewith-hamza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 </p>
 
-### Databases & Backend Services
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,redis,supabase" />
-</p>
-
-### Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode,postman" />
+<p align="center">
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewith-hamza&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🤖 AI & Modern Development
-
-I'm actively exploring the intersection of **Full Stack Engineering and Artificial Intelligence**, particularly:
-
-- Large Language Models (LLMs)
-- OpenAI API integration
-- AI-assisted application features
-- Retrieval & intelligent search
-- AI-powered workflows
-- Building AI features into existing SaaS products
-
----
-
-# 📊 GitHub Analytics
+# 🔥 Contribution Streak
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=codewith-hamza&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewith-hamza&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=codewith-hamza&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewith-hamza&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://streak-stats.demolab.com?user=codewith-hamza&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🐍 Contribution Activity
+# 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codewith-hamza/codewith-hamza/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewith-hamza&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
 ---
 
-# 🌐 Let's Connect
+# 🏆 GitHub Profile Trophies
 
 <p align="center">
-
-I'm interested in working on challenging products involving  
-**Frontend Engineering • Full Stack Development • SaaS • AI-powered Applications**
-
-📧 **hamzajawaidshaikh@gmail.com**
-
-🌐 **Portfolio:** https://three-portfolio-2025.vercel.app/
-
+  <img src="https://github-profile-trophy.vercel.app/?username=codewith-hamza&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/>
 </p>
 
 ---
 
-<p align="center">
-  <b>Build. Ship. Learn. Repeat. 🚀</b>
-</p>
+# 📌 Engineering Focus
+
+```text
+Primary Stack       → MERN / MEAN
+Frontend            → React / Next.js / Angular
+Primary Backend     → Node.js / Express.js
+Secondary Backend   → Laravel / .NET Core
+Databases           → MongoDB / PostgreSQL / MySQL
+Real-Time           → WebSockets / WebRTC / Redis
+AI                  → OpenAI / LLM Integration
+Mobile              → React Native
+Architecture        → REST APIs / SaaS / Marketplaces
