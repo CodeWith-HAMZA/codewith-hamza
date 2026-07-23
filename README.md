@@ -335,43 +335,6 @@ Currently working on a transportation technology product focused on reliable tru
 `Git` `GitHub` `Docker` `VS Code` `Postman`  
 `npm` `Vite` `Vercel` `GitHub Actions`
  
-# 💻 Most Used Programming Languages
-
-<p align="center">
-  <a href="https://github.com/codewith-hamza">
-    <img
-      alt="Hamza's Top Languages"
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=codewith-hamza&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=4E96FFFF&icon_color=F8D866&hide=Jupyter%20Notebook,Roff"
-      height="192px"
-    />
-  </a>
-</p>
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=codewith-hamza&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewith-hamza&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
-
----
-
-# 🏆 GitHub Profile Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codewith-hamza&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/>
-</p>
-
----
-
 # 📌 Engineering Focus
 
 ```text
