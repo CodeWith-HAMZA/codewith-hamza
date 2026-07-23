@@ -155,7 +155,7 @@ Currently exploring **LLMs, AI integrations and AI-native application architectu
   <img src="https://skillicons.dev/icons?i=python"/>
 </p>
 
-`Python` `API Integration` `Automation` `AI Integration` `Backend Services`
+`FastAPI` `RestAPIs` `Automation (selenium)` `AI Integration (Langchain, LangGraph, tool chaining)` `Backend Services`
 
 ---
 
