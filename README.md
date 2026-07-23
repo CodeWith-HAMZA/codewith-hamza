@@ -231,7 +231,7 @@ My focus is not only learning AI concepts, but integrating AI into **real produc
 
 ---
 
-# 🚀 Featured Production Work
+# 🚀 Recent Production Work
 
 ## 🩺 BoardsReviews
 
