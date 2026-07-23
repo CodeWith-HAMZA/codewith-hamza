@@ -339,12 +339,16 @@ Currently working on a transportation technology product focused on reliable tru
 
 # 💻 Most Used Programming Languages
 
----
+---### 💻 Most Used Languages
+
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewith-hamza&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&count_private=true"
-    alt="Most Used Languages"
-  />
+  <a href="https://github.com/codewith-hamza">
+    <img
+      alt="Hamza's Top Languages"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=codewith-hamza&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=4E96FFFF&icon_color=F8D866&hide=Jupyter%20Notebook,Roff"
+      height="192px"
+    />
+  </a>
 </p>
 ---
 
