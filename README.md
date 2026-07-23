@@ -115,7 +115,7 @@ Currently exploring **LLMs, AI integrations and AI-native application architectu
 
 # ⚙️ Backend Engineering
 
-## 🟢 Primary — Node.js
+## 🟢 Primary (Node.js)
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis"/>
@@ -127,7 +127,7 @@ Currently exploring **LLMs, AI integrations and AI-native application architectu
 
 ---
 
-## 🟠 Secondary — Laravel
+## 🟠 Secondary (Laravel)
 
 <p>
   <img src="https://skillicons.dev/icons?i=php,laravel,mysql"/>
